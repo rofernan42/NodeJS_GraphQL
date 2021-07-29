@@ -1,0 +1,6 @@
+utiliser graphQL:
+npm install --save graphql
+npm install --save express-graphql
+
+validation avec graphql:
+npm install --save validator (package que express-validator utilise en background)
